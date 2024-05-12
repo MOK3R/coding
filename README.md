@@ -36,3 +36,5 @@ add - track your files nd chnges
 commit - sve your files in Git
 push - upload Git commits to  rremote repository f.e. Github
 pull - download changes to your local machine
+
+Info
