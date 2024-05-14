@@ -35,7 +35,14 @@ clone - bring a repositoryy into a folder on your locl mchine
 add - track your files nd chnges
 commit - sve your files in Git
 push - upload Git commits to  rremote repository f.e. Github
-pull - download changes to your local machine
+pull - download changes to your local machine+
+
+# create new branch 
+git checkout -b <prefix>/<branch name> 
+git checkout -b feature/development 
+
+# check changes and staged 
+git status
 
 Info
 
