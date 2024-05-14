@@ -25,8 +25,8 @@ cd change directory
 
 repository Place where project is kept
 
-Git : Tool traacking chnges
-Github : Website where u host repositorys Tool
+Git : Tool tracking changes
+Github : Website where u host repositorys 
 
 
 Git commands : 
@@ -38,3 +38,7 @@ push - upload Git commits to  rremote repository f.e. Github
 pull - download changes to your local machine
 
 Info
+
+Current TODOs
+
+SSH Github
