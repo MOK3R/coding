@@ -19,6 +19,6 @@ export default defineConfig({
     outDir: "../docs"
   },
   base: process.env.NODE_ENV === 'production'
-  ? '/'
+  ? 'https://mok3r.github.io/coding/'
   : '/'
 })
