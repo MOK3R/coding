@@ -1,5 +1,7 @@
 import { createApp } from 'vue'
-import './style.css'
 import App from './App.vue'
+import MainMixin from './mixins/MainMixin.js'
+const app = createApp(App)
 
-createApp(App).mount('#app')
+app.mixin(MainMixin)
+app.mount('#app')
