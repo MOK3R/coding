@@ -28,9 +28,10 @@ export default {
 .container{
   margin-left: auto;
   margin-right: auto;
-  max-width: 800px;
 }
 .image-width{
-  max-width: 800px;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
 }
 </style>
