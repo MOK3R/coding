@@ -37,6 +37,13 @@ commit - sve your files in Git
 push - upload Git commits to  rremote repository f.e. Github
 pull - download changes to your local machine+
 
+# linux commands
+ls # list content of directory
+ls -alF # 
+man ls # documentation linux commands
+man man # manual of manual
+cat # catalogue/show content of file
+
 # create new branch 
 git checkout -b <prefix>/<branch name> 
 git checkout -b feature/development 
