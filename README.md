@@ -57,6 +57,14 @@ Current TODOs
 
 SSH Github
 
+Seperation
+
+  Content
+  "docs"
+  "webinterface"
+
+  
+
 Current Tasks
 
 
